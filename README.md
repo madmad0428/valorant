@@ -9,7 +9,7 @@ I. 실험 설계
 예측 단위  맵 1개 = 시나리오 1개
 목표 샘플 수  100개 맵 (821개 중 선별)
 비교 기법 / Few-shot / CoT / Role prompting
-사용 모델  Gemini 1.5 Pro
+사용 모델  Claude haiku 4.5
 종속변인  예측 정확도 (%)
 독립변인  프롬프트 기법
 
